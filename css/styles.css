@@ -65,7 +65,7 @@ h2 {
   display: inline-block;
 }
 
-.project {
+.project, .footer {
   text-align: center;
   color: #fff;
   padding: 50px;
@@ -90,19 +90,24 @@ h2 {
 }
 
 #project-1 {
-  background: #20639b;
+  background: #6c5ce7;
 }
 
 #project-2 {
-  background: #3caea3;
+  background: #0984e3;
 }
 
 #project-3 {
-  background: #f6d55c;
+  background: #00cec9;
 }
 
 #project-4 {
-  background: #ed553b;
+  background: #00b894;
+}
+
+.footer {
+  color: #dfe6e9;
+  background: #2d3436;
 }
 
 @media (min-width: 1024px) {
