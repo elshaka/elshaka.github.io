@@ -50,6 +50,12 @@ h2 {
   display: inline-block;
 }
 
+.c2a {
+  display: inline-block;
+  background: #0984e3;
+  text-shadow: none;
+  padding: 10px;
+}
 .mono {
   font-family: 'Roboto Mono', monospace;
 }
