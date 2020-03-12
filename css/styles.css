@@ -50,10 +50,6 @@ h2 {
   display: inline-block;
 }
 
-.projects {
-  overflow-y: scroll;
-}
-
 .mono {
   font-family: 'Roboto Mono', monospace;
 }
@@ -140,6 +136,7 @@ h2 {
   }
 
   .projects {
+    overflow-y: scroll;
     width: 60%;
   }
 }
